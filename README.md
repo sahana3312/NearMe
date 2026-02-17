@@ -31,6 +31,27 @@ Execute the programs and publish them.
 ```
 <html>
     <head>
+        <title>My City </title>
+    </head>
+    <body>
+        <h1 align="centre">Velachery-chennai</h1>
+        <h3 align="centre">Sahana S 25015837</h3>
+        <img src="mapweb.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="phoenix Marketcity mall" title="phoenix Marketcity mall" href="phoenix.html" coords="1364,16,1120,82" shape="rect">
+    <area target="" alt="PVR grand mall" title="PVR grand mall" href="PVR.html" coords="62,245,56,297,238,314,268,281,238,251" shape="poly">
+    <area target="" alt="IIT Madras " title="IIT Madras " href="IIT.html" coords="1441,50,40" shape="circle">
+    <area target="" alt="vanuvampet Murugan temple" title="vanuvampet Murugan temple" href="vanuvampet.html" coords="981,188,788,257" shape="rect">
+    <area target="" alt="Ayyappan Temple" title="Ayyappan Temple" href="Ayyappan.html" coords="618,504,87" shape="circle">
+</map>
+
+        
+    </body>
+</html>
+
+<html>
+    <head>
         <title>Ayyappan Temple</title>
     </head>
     <body>
@@ -53,26 +74,7 @@ It has a large green campus and offers many courses in engineering, science, and
     </body>
 </html>
 
-<html>
-    <head>
-        <title>My City </title>
-    </head>
-    <body>
-        <h1 align="centre">Velachery-chennai</h1>
-        <h3 align="centre">Sahana S 25015837</h3>
-        <img src="mapweb.png" usemap="#image-map">
 
-<map name="image-map">
-    <area target="" alt="phoenix Marketcity mall" title="phoenix Marketcity mall" href="phoenix.html" coords="1364,16,1120,82" shape="rect">
-    <area target="" alt="PVR grand mall" title="PVR grand mall" href="PVR.html" coords="62,245,56,297,238,314,268,281,238,251" shape="poly">
-    <area target="" alt="IIT Madras " title="IIT Madras " href="IIT.html" coords="1441,50,40" shape="circle">
-    <area target="" alt="vanuvampet Murugan temple" title="vanuvampet Murugan temple" href="vanuvampet.html" coords="981,188,788,257" shape="rect">
-    <area target="" alt="Ayyappan Temple" title="Ayyappan Temple" href="Ayyappan.html" coords="618,504,87" shape="circle">
-</map>
-
-        
-    </body>
-</html>
 
 <html>
     <head>
@@ -113,9 +115,8 @@ It is a peaceful place of worship where many devotees visit for prayers and fest
 ```
 
 ## OUTPUT
-![alt text](image.png)
-![alt text](<Screenshot (19).png>)
 ![alt text](<Screenshot (20).png>)
+![alt text](<Screenshot (19).png>)
 ![alt text](<Screenshot (21).png>)
 ![alt text](<Screenshot (22).png>)
 ![alt text](<Screenshot (23).png>)
