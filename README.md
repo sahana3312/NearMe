@@ -41,8 +41,6 @@ Many devotees visit the temple for daily prayers and special poojas</h4>
     </body>
 </html>
 
-```
-```
 html>
     <head>
         <title>IIT Madras </title>
@@ -54,8 +52,7 @@ html>
 It has a large green campus and offers many courses in engineering, science, and technology.</h4>
     </body>
 </html>
-```
-```
+
 <html>
     <head>
         <title>My City </title>
@@ -76,8 +73,7 @@ It has a large green campus and offers many courses in engineering, science, and
         
     </body>
 </html>
-```
-```
+
 <html>
     <head>
         <title>phoenix Marketcity mall </title>
@@ -89,8 +85,7 @@ It has a large green campus and offers many courses in engineering, science, and
 It is a popular hangout spot with hundreds of stores, restaurants, and a multiplex cinema, making it a one-stop destination for families and friends.</h4>
     </body>
 </html>
-```
-```
+
 <html>
     <head>
         <title>PVR grand mall </title>
@@ -103,8 +98,7 @@ It also has a food court, gaming areas, and dining options, making it a popular 
         
     </body>
 </html>
-```
-```
+
 <html>
     <head>
         <title>vanuvampet Murugan temple </title>
