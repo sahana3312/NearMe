@@ -62,7 +62,7 @@ Many devotees visit the temple for daily prayers and special poojas</h4>
     </body>
 </html>
 
-html>
+<html>
     <head>
         <title>IIT Madras </title>
     </head>
