@@ -115,15 +115,12 @@ It is a peaceful place of worship where many devotees visit for prayers and fest
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (20).png>)
-![alt text](<Screenshot (19).png>)
-![alt text](image-1.png)
-![alt text](<Screenshot (21).png>)
-![alt text](<Screenshot (22).png>)
-![alt text](<Screenshot (23).png>)
-
-
-
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](6.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
